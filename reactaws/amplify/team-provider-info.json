@@ -1,0 +1,19 @@
+{
+    "awsapp": {
+        "awscloudformation": {
+            "AuthRoleName": "reactaws-20190425224539-authRole",
+            "UnauthRoleArn": "arn:aws:iam::295444561615:role/reactaws-20190425224539-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::295444561615:role/reactaws-20190425224539-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "reactaws-20190425224539-deployment",
+            "UnauthRoleName": "reactaws-20190425224539-unauthRole",
+            "StackName": "reactaws-20190425224539",
+            "StackId": "arn:aws:cloudformation:us-east-1:295444561615:stack/reactaws-20190425224539/8b70df40-67e6-11e9-9f2d-0e162d0e1748"
+        },
+        "categories": {
+            "auth": {
+                "cognito8d09910f": {}
+            }
+        }
+    }
+}
